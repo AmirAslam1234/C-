@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    cout<<"--------------------------------"<<endl;
+    cout<<"Hello Welcome to the Programming World!"<<endl;
+    cout<<"Now you are going to starting Programming Journey!"<<endl;
+    cout<<"So Enjoy it!     And Best of Luck!"<<endl;
+    cout<<"--------------------------------"<<endl;
+
+    return 0;
+}
