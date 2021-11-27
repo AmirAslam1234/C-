@@ -1,0 +1,21 @@
+Write a program that takes two integer from user and print their sum and product.
+
+#include<iostream>
+using namespace std;
+int main()
+{
+    int a;
+    int sum;
+    int product;
+    int b;
+    cout<<"Enter first number: ";
+    cin>>a;
+    cout<<"Enter second number: ";
+    cin>>b;
+    sum = a + b;
+    product = a * b;
+    cout<<"Sum is: "<<sum;
+    cout<<"Product is: "<<product;
+
+    return 0;
+}
