@@ -1,0 +1,9 @@
+Write a program to print ‘Hello’ in one line and ‘world’ in second line.
+
+#include<iostream>
+using namespace std;
+int main()
+{
+    cout<<"Hello \n World";
+    return 0;
+}
