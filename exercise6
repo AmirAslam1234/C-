@@ -1,0 +1,19 @@
+Write a program to swap ( exchange )  values of two variables.
+
+
+#include<iostream>
+using namespace std;
+int main()
+{
+    int num1 = 5;
+    int num2= 8;
+    int temp;
+    cout<<"Value of first number before swapping is: "<<num1<<endl;
+    cout<<"Value of second number before swapping is: "<<num2<<endl;
+    temp = num1;
+    num1 = num2;
+    num2 = temp;
+    cout<<"Value of first number after swapping is: "<<num1<<endl;
+    cout<<"Value of second number after swapping is: "<<num2<<endl;
+    return 0;
+}
