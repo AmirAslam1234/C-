@@ -1,3 +1,5 @@
+4.	Write a program to print size of data types using ‘sizeof’ operator.
+
 #include<iostream>
 using namespace std;
 int main()
